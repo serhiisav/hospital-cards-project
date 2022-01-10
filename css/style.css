@@ -1,0 +1,29 @@
+.card {
+    width: 20rem;
+    margin-left: 10px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-header__close-card {
+    fill: black;
+}
+
+.card-header__close-card:hover {
+    cursor: pointer;
+}
+
+.root {
+    margin-top: 10px;
+}
+
+.hide-element {
+    display: none !important;
+}
+
+.show-element {
+    display: block !important;
+}
