@@ -5,6 +5,14 @@
 The Hospital task management website is a simple, quick, and responsive website built with the
 best principles of JavaScript Bootstrap technologies and Responsive Web Design.
 
+## Get to start
+
+1. To start working with the server, you need to register here(Remember the password!!!):
+   https://ajax.test-danit.com/front-pages/cards-register.html
+
+2. Then you need to login here(using the data(email,password) during registration):
+   https://serhiisav.github.io/hospital-cards-project/
+
 ## What is included
 
 - A login mechanism that connects to the server and verifies the user's identity.
